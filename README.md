@@ -1,6 +1,7 @@
 # Event-Manage-System-PHP
 An event management system for university.
-Functions -> who can use
+</br>Language / Database: PHP, HTML, CSS, jQuery / MySQL
+</br>Functions -> who can use
 - login, logout -> admin & student
 - register -> student 
 - display all event
@@ -11,7 +12,9 @@ Functions -> who can use
 - add, edit, delete, view(sort ASC/DESC) event -> admin
 - add, edit, delete, view(sort ASC/DESC) user -> admin
 - add, edit, delete, view(sort ASC/DESC) venue -> admin
-</br>Language / Database: PHP, HTML, CSS, jQuery / MySQL
+</br>Uses of jQuery:
+- login_register.php (click, css, addClass, removeClass)
+- admin_manage.php (mouseenter, mouseleave, hide, show, click)
 
 Screenshots:
 1. Login & Registration
@@ -38,4 +41,3 @@ Screenshots:
 </br>5. View profile
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/44870863/67843223-8930e700-fb36-11e9-815f-54cc1481d243.png)
-
