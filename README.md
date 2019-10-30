@@ -5,7 +5,8 @@ An event management system for university.
 </br>Uses of jQuery:
 - login_register.php (click, css, addClass, removeClass)
 - admin_manage.php (mouseenter, mouseleave, hide, show, click)
-</br>Functions -> who can use
+
+Functions -> who can use
 - login, logout -> admin & student
 - register -> student 
 - display all event
