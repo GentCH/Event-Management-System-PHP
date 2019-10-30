@@ -1,4 +1,4 @@
-# Event-Manage-System-PHP
+# Event-Management-System-PHP
 An event management system for university.
 </br>Language: PHP, HTML, CSS, jQuery, javascript
 </br>Database / Database name: MySQL / ems
@@ -17,7 +17,7 @@ An event management system for university.
 - add, edit, delete, view(sort ASC/DESC) user -> admin
 - add, edit, delete, view(sort ASC/DESC) venue -> admin
 
-Screenshots:
+Some Screenshots:
 1. Login & Registration
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/44870863/67843227-89c97d80-fb36-11e9-8955-9580f5521509.png)
