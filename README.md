@@ -22,8 +22,7 @@ Language: PHP, HTML, CSS, jQuery, javascript
   <li>add, edit, delete, view(sort ASC/DESC) user -> admin</li>
   <li>add, edit, delete, view(sort ASC/DESC) venue -> admin</li>
 </ul>
-
-Some Screenshots:
+<h3>Some Screenshots:</h3>
 1. Login & Registration
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/44870863/67843227-89c97d80-fb36-11e9-8955-9580f5521509.png)
