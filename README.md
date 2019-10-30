@@ -1,15 +1,20 @@
 # Event-Manage-System-PHP
 An event management system for university.
-</br>Functions:
-</br>- login & registration
-</br>- add/edit/delete/view event 
-</br>- booking/view booked event
-</br>- view/edit profile
+Functions -> who can use
+- login, logout -> admin & student
+- register -> student 
+- display all event
+- search event, view event detail -> admin & student
+- edit, view own profile -> admin & student
+- add booking (a.k.a join event), View booking -> admin & student
+- change password -> admin & student
+- add, edit, delete, view(sort ASC/DESC) event -> admin
+- add, edit, delete, view(sort ASC/DESC) user -> admin
+- add, edit, delete, view(sort ASC/DESC) venue -> admin
 </br>Language / Database: PHP, HTML, CSS, jQuery / MySQL
 
 Screenshots:
-
-</br>1. Login & Registration
+1. Login & Registration
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/44870863/67843227-89c97d80-fb36-11e9-8955-9580f5521509.png)
 ![Screenshot (73)](https://user-images.githubusercontent.com/44870863/67843228-89c97d80-fb36-11e9-90a9-d4e38cca1d26.png)
