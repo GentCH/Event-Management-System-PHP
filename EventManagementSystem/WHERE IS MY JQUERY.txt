@@ -1,0 +1,38 @@
+﻿1. SQL Insert image & retrieve image function
+source: - http://www.it-iss.com/mysql/mysql-inserting-and-reading-blobs-in-php/
+	- https://stackoverflow.com/questions/17717506/how-to-upload-images-into-mysql-database-using-php-code
+	- https://github.com/GentCH/MySQL-Insert-Update-BLOB-using-HTML-PHP
+use at: - login_register.php (save default profile picture for register user)
+	- my_profile.php (display user profile picture)
+	- edit_profile.php (allow user to upload picture)
+
+
+2. Hoverable dropdown menu
+source: https://www.w3schools.com/howto/howto_css_dropdown.asp
+use at: - admin_manage.php (event: edit) 
+	- myprofile.php (edit profile)
+
+3. Scroll to top button
+source: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+
+
+4. Login-register jQuery
+source: https://codepen.io/roppazvan/pen/ambANo
+
+
+5. WHERE IS MY JQUERY ?
+- login_register.php (click, css, addClass, removeClass)
+- admin_manage.php (mouseenter, mouseleave, hide, show, click)
+
+
+6. Functions -> who can use
+- login, logout -> admin & student
+- register -> student 
+- display all event
+- search event, view event detail -> admin & student
+- edit, view own profile -> admin & student
+- add booking (a.k.a join event), View booking -> admin & student
+- change password -> admin & student
+- add, edit, delete, view(sort ASC/DESC) event -> admin
+- add, edit, delete, view(sort ASC/DESC) user -> admin
+- add, edit, delete, view(sort ASC/DESC) venue -> admin
